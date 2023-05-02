@@ -1,0 +1,15 @@
+
+<ul>
+            <li><a href="#Home">Home </a></li>  <li><a href="#Contact Info">Contact Info </a>    </li><li><a href="#portfolio">Portfolio </a> </li>
+           
+            
+    
+        </ul>
+
+        .stadiumimg {
+        position: static;
+        top: 1000px;
+        left: 500px;
+    }
+
+    
